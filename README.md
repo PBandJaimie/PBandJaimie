@@ -15,15 +15,15 @@ let i = {
 ```
 <h3>Contact</h3>
 <p>
-    <a href="mailto:pbandjaimie@gmail.com"><img height="25" alt="GMail" src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:pbandjaimie@gmail.com"><img height="25" alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </a>
   <a href="https://instagram.com/dayumjam">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+    <img height="25" alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://twitter.com/dayumjam"><img height="25" alt="Twitter" src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/jaimiediemer/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img height="25" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -46,8 +46,7 @@ let i = {
 <h3>Frameworks</h3>
 <p>
   <img height="25" alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img height="25" alt="NPM" src="
-  https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img height="25" alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img height="25" alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img height="25" alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   <img height="25" alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
