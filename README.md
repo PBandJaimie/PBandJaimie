@@ -46,8 +46,8 @@ let i = {
     <img height="25" alt="Mocha" src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" />
 </p>
 
-<table border="0">
-  <theader style="font-size: 1.25 !important">
+<table style="font-size: 1.25 !important">
+  <theader>
     <td align="center">Languages</td>
     <td align="center">Databases</td>
     <td align="center">Cloud</td>
