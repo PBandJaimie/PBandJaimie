@@ -46,12 +46,12 @@ let i = {
     <img height="25" alt="Mocha" src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" />
 </p>
 
-<table style="font-size: 1.25 !important">
+<table>
   <theader>
-    <td align="center">Languages</td>
-    <td align="center">Databases</td>
-    <td align="center">Cloud</td>
-    <td align="center">Tools</td>
+    <td align="center" style="font-size:1.25em"><b>Languages</b></td>
+    <td align="center" style="font-size:1.25em"><b>Databases</b></td>
+    <td align="center" style="font-size:1.25em"><b>Cloud</b></td>
+    <td align="center" style="font-size:1.25em"><b>Tools</b></td>
   </theader>
   <tbody>
     <tr>
