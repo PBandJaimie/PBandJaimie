@@ -21,9 +21,9 @@
 
 ```javascript
 let i = {
-  am: ['writer', 'baker', 'music maker', 28],
+  am: ['a writer', 'a baker', 'a music maker', 28],
   love: ['long walks on the beach', 'writing code', 'jigsaw puzzles', 'reading', 'true crime', 'calling my mom'],
-  want: 'leave the world better than how I found it'
+  want: 'to leave the world better than how I found it'
 };
 ```
 
