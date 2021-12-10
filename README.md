@@ -47,67 +47,69 @@ let i = {
 </p>
 
 <table border="0">
-  <tr>
-    <td align="center" style="font-size: 1.25 !important"><b>Languages</b></td>
-    <td align="center" style="font-size: 1.25 !important"><b>Databases</b></td>
-    <td align="center" style="font-size: 1.25 !important"><b>Cloud</b></td>
-    <td align="center" style="font-size: 1.25 !important"><b>Tools</b></td>
-  </tr>
-  <tr>
-    <td id="languages">
-      <img height="25" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    </td>
-    <td id="databases">
-      <img height="25" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-    </td>
-    <td id="cloud">
-      <img height="25" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-000?style=for-the-badge&logo=amazonaws&logoColor=white" />
-    </td>
-    <td id="tools">
-      <img height="25" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-    </td>
-  <tr>
+  <theader style="font-size: 1.25 !important">
+    <td align="center">Languages</td>
+    <td align="center">Databases</td>
+    <td align="center">Cloud</td>
+    <td align="center">Tools</td>
+  </theader>
+  <tbody>
+    <tr>
       <td id="languages">
-      <img height="25" alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-    </td>
-    <td id="databases">
-      <img height="25" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-    </td>
-    <td id="cloud">
-      <img height="25" alt="Replit" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" />
-    </td>
-    <td id="tools">
-      <img height="25" alt="ESLint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td id="languages">
-      <img height="25" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-    </td>
-    <td id="databases">
-      <img height="25" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-    </td>
-    <td>
-      &nbsp;
-    </td>
-    <td id="tools">
-      <img height="25" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td id="languages">
-      <img height="25" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    </td>
-    <td id="databases">
-      <img height="25" alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    </td>
-    <td>
-      &nbsp;
-    </td>
-    <td>
-      &nbsp;
-    </td>
-  </tr>
+        <img height="25" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+      </td>
+      <td id="databases">
+        <img height="25" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+      </td>
+      <td id="cloud">
+        <img height="25" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-000?style=for-the-badge&logo=amazonaws&logoColor=white" />
+      </td>
+      <td id="tools">
+        <img height="25" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+      </td>
+    <tr>
+        <td id="languages">
+        <img height="25" alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+      </td>
+      <td id="databases">
+        <img height="25" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+      </td>
+      <td id="cloud">
+        <img height="25" alt="Replit" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" />
+      </td>
+      <td id="tools">
+        <img height="25" alt="ESLint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td id="languages">
+        <img height="25" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+      </td>
+      <td id="databases">
+        <img height="25" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+      </td>
+      <td>
+        &nbsp;
+      </td>
+      <td id="tools">
+        <img height="25" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td id="languages">
+        <img height="25" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      </td>
+      <td id="databases">
+        <img height="25" alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+      </td>
+      <td>
+        &nbsp;
+      </td>
+      <td>
+        &nbsp;
+      </td>
+    </tr>
+   </tbody>
 </table>
 
 <h3>Stats</h3>
