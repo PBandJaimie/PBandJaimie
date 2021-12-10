@@ -9,13 +9,13 @@
 <p align="center">
     <a href="mailto:pbandjaimie@gmail.com"><img height="25" alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </a>
-  <a href="https://instagram.com/dayumjam">
-    <img height="25" alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.linkedin.com/in/jaimiediemer/">
+    <img height="25" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/dayumjam"><img height="25" alt="Twitter" src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/jaimiediemer/">
-    <img height="25" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://instagram.com/dayumjam">
+    <img height="25" alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -48,10 +48,10 @@ let i = {
 
 <table border="0">
   <tr>
-    <td><h3>Languages</h3></td>
-    <td><h3>Databases</h3></td>
-    <td><h3>Cloud</h3></td>
-    <td><h3>Tools</h3></td>
+    <td align="center"><h3>Languages</h3></td>
+    <td align="center"><h3>Databases</h3></td>
+    <td align="center"><h3>Cloud</h3></td>
+    <td align="center"><h3>Tools</h3></td>
   </tr>
   <tr>
     <td id="languages">
@@ -66,7 +66,6 @@ let i = {
     <td id="tools">
       <img height="25" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
     </td>
-  <tr>
   <tr>
       <td id="languages">
       <img height="25" alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
