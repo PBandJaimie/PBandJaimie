@@ -1,20 +1,12 @@
 <h1 align='center'>
-  Hello World, I'm Jaimie👩🏻‍💻
+  Hello World, I'm Jaimie (she/her)👩🏻‍💻
 </h1>
 
 <h3 align='center'>
   A full stack software engineer in sunny California &#9728;&#65039;
 </h3>
 
-```javascript
-let i = {
-  am: ['writer', 'baker', 'music maker', 28],
-  love: ['long walks on the beach', 'writing code', 'jigsaw puzzles', 'reading', 'true crime', 'calling my mom'],
-  want: 'leave the world better than how I found it'
-};
-```
-<h3>Contact</h3>
-<p>
+<p align="center">
     <a href="mailto:pbandjaimie@gmail.com"><img height="25" alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </a>
   <a href="https://instagram.com/dayumjam">
@@ -27,21 +19,13 @@ let i = {
   </a>
 </p>
 
-<h3>Languages</h3>
-<p>
-  <img height="25" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img height="25" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img height="25" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img height="25" alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-</p>
-
-<h3>Databases</h3>
-<p>
-  <img height="25" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img height="25" alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img height="25" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img height="25" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+```javascript
+let i = {
+  am: ['writer', 'baker', 'music maker', 28],
+  love: ['long walks on the beach', 'writing code', 'jigsaw puzzles', 'reading', 'true crime', 'calling my mom'],
+  want: 'leave the world better than how I found it'
+};
+```
 
 <h3>Frameworks</h3>
 <p>
@@ -62,18 +46,63 @@ let i = {
     <img height="25" alt="Mocha" src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" />
 </p>
 
-<h3>Cloud</h3>
-<p>
-  <img height="25" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-000?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img height="25" alt="Replit" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" />
-</p>
-
-<h3>Tools</h3>
-<p>
-  <img height="25" alt="ESLint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
-  <img height="25" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
-  <img height="25" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-</p>
+<table border="0">
+  <tr>
+    <td><h3>Languages</h3></td>
+    <td><h3>Databases</h3></td>
+    <td><h3>Cloud</h3></td>
+    <td><h3>Tools</h3></td>
+  </tr>
+  <tr>
+    <td id="languages">
+      <img height="25" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    </td>
+    <td id="databases">
+      <img height="25" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+    </td>
+    <td id="cloud">
+      <img height="25" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-000?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    </td>
+    <td id="tools">
+      <img height="25" alt="ESLint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
+    </td>
+  <tr>
+  <tr>
+    <td id="languages">
+      <img height="25" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    </td>
+    <td id="databases">
+      <img height="25" alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    </td>
+    <td id="cloud">
+      <img height="25" alt="Replit" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" />
+    </td>
+    <td id="tools">
+      <img height="25" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td id="languages">
+      <img height="25" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+    </td>
+    <td id="databases">
+      <img height="25" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+    </td>
+    <td>
+    </td>
+    <td id="tools">
+      <img height="25" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td id="languages">
+      <img height="25" alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+    </td>
+    <td id="databases">
+      <img height="25" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 <h3>Stats</h3>
 <p align="center">
