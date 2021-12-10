@@ -46,7 +46,7 @@ let i = {
     <img height="25" alt="Mocha" src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" />
 </p>
 
-<table>
+<table align="center">
   <theader>
     <td align="center" style="font-size:1.25em"><b>Languages</b></td>
     <td align="center" style="font-size:1.25em"><b>Databases</b></td>
@@ -112,7 +112,6 @@ let i = {
    </tbody>
 </table>
 
-<h3>Stats</h3>
 <p align="center">
   <img alt="GHStats" src="https://github-readme-stats.vercel.app/api?username=pbandjaimie"/>
   <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbandjaimie" />
