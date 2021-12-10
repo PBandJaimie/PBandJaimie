@@ -67,7 +67,7 @@ let i = {
       <img height="25" alt="ESLint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
     </td>
   <tr>
-  <tr>~
+  <tr>
     <td id="languages">
       <img height="25" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     </td>
@@ -88,8 +88,6 @@ let i = {
     <td id="databases">
       <img height="25" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
     </td>
-    <td>
-    </td>
     <td id="tools">
       <img height="25" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
     </td>
@@ -100,6 +98,12 @@ let i = {
     </td>
     <td id="databases">
       <img height="25" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+    </td>
+    <td>
+     &nbsp;
+    </td>
+    <td>
+     &nbsp;
     </td>
   </tr>
 </table>
