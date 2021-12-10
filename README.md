@@ -48,10 +48,10 @@ let i = {
 
 <table border="0">
   <tr>
-    <td align="center"><h3>Languages</h3></td>
-    <td align="center"><h3>Databases</h3></td>
-    <td align="center"><h3>Cloud</h3></td>
-    <td align="center"><h3>Tools</h3></td>
+    <td align="center"><h3 style="margin:0">Languages</h3></td>
+    <td align="center"><h3 style="margin:0">Databases</h3></td>
+    <td align="center"><h3 style="margin:0">Cloud</h3></td>
+    <td align="center"><h3 style="margin:0">Tools</h3></td>
   </tr>
   <tr>
     <td id="languages">
