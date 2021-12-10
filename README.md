@@ -67,7 +67,7 @@ let i = {
       <img height="25" alt="ESLint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
     </td>
   <tr>
-  <tr>
+  <tr>~
     <td id="languages">
       <img height="25" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     </td>
